@@ -1,0 +1,31 @@
+<div>
+				<p>Enforce your wyll su?yng as for to learen</p>
+				<lb/>
+				<p>Acanns? your with coning for that ys sevre?</p>
+				<lb/>
+				<p>yf fortenne chanc &amp; poverte? apere</p>
+				<lb/>
+				<p>he that ys coning ys lyke to recover</p>
+				<pb/>
+				<lb/>
+				<figure>
+					<figDesc>
+						<desc>Line separating the verse above from the notes below</desc>
+					</figDesc>
+				</figure>
+				<p>a pownde ys wryte thys ƚi:i:</p>
+				<p>halfe a pownde thys: ƚi:d: or thys: ƚi:β:</p>
+				<p>an unce ys thys: ℥:i: or thys ℥:i:</p>
+				<p>halfe an unce thys: ℥:d: or this ℥:β:</p>
+				<p>a drame is thys: Ʒ:i:</p>
+				<p>halfe a drame this: Ʒ:d: or this :Ʒ:β:</p>
+				<p>a quart : qrt:</p>
+				<p>a scrypul ys thys: Ȝ:i:</p>
+				<p>halfe a scrypul: Ȝ:d: or thys :Ȝ:β:</p>
+				<p>a handeful thys: m:i:</p>
+				<p>halfe a handeful: m:d: or m:β:</p>
+				<p>of every <add>one</add> yche myche this: an: or thys: ana</p>
+				<p>a grayne ys thys: gra: or grana:</p>
+				<p><persName>Henry Dyngley</persName>:ano xpo:<date>1554</date>: et ano philippi et marie primo et secundo <date>vicessimo secundo die marcii</date></p>
+				<p>xii: unce make a pownde: and viij: drames make one unce and .iij. scripuls one drame: and xx: barly cornis ys a scripul</p>
+			</div>
