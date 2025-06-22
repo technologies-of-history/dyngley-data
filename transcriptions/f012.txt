@@ -1,3 +1,1 @@
-<div>
-				<desc>Three lines of cancelled notes. Illegible.</desc>
-			</div>
+<div><desc>Three lines of cancelled notes. Illegible.</desc></div>

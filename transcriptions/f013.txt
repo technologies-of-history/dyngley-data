@@ -1,3 +1,1 @@
-<div>
-				<desc>Blank flyleaf</desc>
-			</div>
+<div><desc>Blank flyleaf</desc></div>

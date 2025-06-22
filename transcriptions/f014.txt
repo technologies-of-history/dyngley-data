@@ -1,7 +1,12 @@
-<div>
-				<head>
-					<title>for the ache of disease in the raynes of the bakke</title>
-				</head>
-				<p>Take a <measure>quarter of yard</measure> of redde scarlett &amp; stycche therto the woll of a blakke shepe thatt growyth apon the brest and then take pouder of [?]aunders &amp; strew over the sayd woll &amp; also pouder of lycoras and after that don to over <rs select="#rs-proc">spryngyll</rs> the same with <rs select="#rs-ing">oyle of oylyff</rs> and that plastur shall restore nature. And ease the pacient of his disease so it be layed to his raynes &amp; 
-            <measure>every wyke</measure> the same plastre to be renewed with same pouder &amp; oyle. And so to use it till he be hoole &amp;c.</p>
-			</div>
+<div><head><title>for the ache of disease in the 
+raynes of the bakke</title></head>
+<p>Take a <measure>quarter of yard</measure> of redde scarlett & stycche therto 
+the woll of a blakke shepe thatt growyth apon the 
+brest and then take pouder of [?]aunders & strew over 
+the sayd woll & also pouder of lycoras and after 
+that don to over spryngyll the same with oyle 
+of oylyff and that plastur shall restore nature. 
+And ease the pacient of his disease so it be layed 
+to his raynes & <measure>every wyke</measure> the same plastre 
+to be renewed with same pouder & oyle. And so 
+to use it till he be hoole &c.</p></div>

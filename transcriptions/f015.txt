@@ -1,6 +1,2 @@
-<div>
-				<figure>
-					<figDesc>Ex libris stamp of Trinity College Cambridge Library</figDesc>
-				</figure>
-				<p>Collegium S.S. et individuae Trinitatis in Academia Cantabrigiensi</p>
-			</div>
+<div><figure><figDesc>Ex libris stamp of Trinity College Cambridge Library</figDesc></figure>
+<p>Collegium S.S. et individuae Trinitatis in Academia Cantabrigiensi</p></div>
