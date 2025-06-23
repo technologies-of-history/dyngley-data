@@ -46,7 +46,7 @@
           <surface xml:id="f026" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F027_O.8.35_f006r.jp2" ><label>f006r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F027_O.8.35_f006r.jp2"/></surface>
       </facsimile>
 
-<text xml:id="Transcription">
+<text xml:id="transcription">
     <body>
     <div>
     <pb facs="#f009" />
