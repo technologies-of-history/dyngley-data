@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      TCC MS O.8.35
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="3013" lry="4125" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F001_O.8.35_front cover.jp2" ><label>front cover</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F001_O.8.35_front cover.jp2"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="3013" lry="4125" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F002_O.8.35_inside front.jp2" ><label>inside front</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F002_O.8.35_inside front.jp2"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F003_O.8.35_front flyleaf 1r.jp2" ><label>front flyleaf 1r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F003_O.8.35_front flyleaf 1r.jp2"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F004_O.8.35_front flyleaf 1v.jp2" ><label>front flyleaf 1v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F004_O.8.35_front flyleaf 1v.jp2"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F005_O.8.35_front flyleaf 2r.jp2" ><label>front flyleaf 2r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F005_O.8.35_front flyleaf 2r.jp2"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F006_O.8.35_front flyleaf 2v.jp2" ><label>front flyleaf 2v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F006_O.8.35_front flyleaf 2v.jp2"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F007_O.8.35_front flyleaf 3r.jp2" ><label>front flyleaf 3r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F007_O.8.35_front flyleaf 3r.jp2"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F008_O.8.35_front flyleaf 3v.jp2" ><label>front flyleaf 3v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F008_O.8.35_front flyleaf 3v.jp2"/></surface>
+          <surface xml:id="f008" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F009_O.8.35_front flyleaf 4r.jp2" ><label>front flyleaf 4r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F009_O.8.35_front flyleaf 4r.jp2"/></surface>
+          <surface xml:id="f009" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F010_O.8.35_front flyleaf 4v.jp2" ><label>front flyleaf 4v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F010_O.8.35_front flyleaf 4v.jp2"/></surface>
+          <surface xml:id="f010" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F011_O.8.35_front flyleaf 5r.jp2" ><label>front flyleaf 5r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F011_O.8.35_front flyleaf 5r.jp2"/></surface>
+          <surface xml:id="f011" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F012_O.8.35_front flyleaf 5v.jp2" ><label>front flyleaf 5v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F012_O.8.35_front flyleaf 5v.jp2"/></surface>
+          <surface xml:id="f012" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F013_O.8.35_front flyleaf 6r.jp2" ><label>front flyleaf 6r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F013_O.8.35_front flyleaf 6r.jp2"/></surface>
+          <surface xml:id="f013" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F014_O.8.35_front flyleaf 6v.jp2" ><label>front flyleaf 6v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F014_O.8.35_front flyleaf 6v.jp2"/></surface>
+          <surface xml:id="f014" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F015_O.8.35_front flyleaf 7r.jp2" ><label>front flyleaf 7r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F015_O.8.35_front flyleaf 7r.jp2"/></surface>
+          <surface xml:id="f015" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F016_O.8.35_front flyleaf 7v.jp2" ><label>front flyleaf 7v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F016_O.8.35_front flyleaf 7v.jp2"/></surface>
+          <surface xml:id="f016" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2" ><label>f001r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2"/></surface>
+          <surface xml:id="f017" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F018_O.8.35_f001v.jp2" ><label>f001v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F018_O.8.35_f001v.jp2"/></surface>
+          <surface xml:id="f018" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F019_O.8.35_f002r.jp2" ><label>f002r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F019_O.8.35_f002r.jp2"/></surface>
+          <surface xml:id="f019" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F020_O.8.35_f002v.jp2" ><label>f002v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F020_O.8.35_f002v.jp2"/></surface>
+          <surface xml:id="f020" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F021_O.8.35_f003r.jp2" ><label>f003r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F021_O.8.35_f003r.jp2"/></surface>
+          <surface xml:id="f021" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F022_O.8.35_f003v.jp2" ><label>f003v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F022_O.8.35_f003v.jp2"/></surface>
+          <surface xml:id="f022" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F023_O.8.35_f004r.jp2" ><label>f004r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F023_O.8.35_f004r.jp2"/></surface>
+          <surface xml:id="f023" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F024_O.8.35_f004v.jp2" ><label>f004v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F024_O.8.35_f004v.jp2"/></surface>
+          <surface xml:id="f024" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F025_O.8.35_f005r.jp2" ><label>f005r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F025_O.8.35_f005r.jp2"/></surface>
+          <surface xml:id="f025" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F026_O.8.35_f005v.jp2" ><label>f005v</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F026_O.8.35_f005v.jp2"/></surface>
+          <surface xml:id="f026" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F027_O.8.35_f006r.jp2" ><label>f006r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F027_O.8.35_f006r.jp2"/></surface>
+      </facsimile>
+
+<text xml:id="transcription">
+    <body>
+    <div>
+    <pb facs="#f009" />
+<ab>
+<lb /><p>Enforce your wyll su?yng as for to learen
+<lb />Acanns? your with coning for that ys sevre?
+<lb />yf fortenne chanc &amp;amp; poverte? apere
+<lb />he that ys coning ys lyke to recover</p>
+<lb /><figure><figDesc><desc>Line separating the verse above from the notes below</desc></figDesc></figure>
+<lb /><p>a pownde ys wryte thys ƚi:i:
+<lb />halfe a pownde thys: ƚi:d: or thys: ƚi:β:
+<lb />an unce ys thys: ℥:i: or thys ℥:i:
+<lb />halfe an unce thys: ℥:d: or this ℥:β:
+<lb />a drame is thys: Ʒ:i:
+<lb />halfe a drame this: Ʒ:d: or this :Ʒ:β:
+<lb />a quart : qrt:
+<lb />a scrypul ys thys: Ȝ:i:
+<lb />halfe a scrypul: Ȝ:d: or thys :Ȝ:β:
+<lb />a handeful thys: m:i:
+<lb />halfe a handeful: m:d: or m:β:
+<lb />of every <add>one</add> yche myche this: an: or thys: ana
+<lb />a grayne ys thys: gra: or grana:</p>
+<lb />	
+<lb /><p><persName>Henry Dyngley</persName>:ano xpo:<date>1554</date>: et ano 
+<lb />philippi et marie primo et secundo 
+<lb /><date>vicessimo secundo die marcii</date></p>
+<lb />	
+<lb /><p>xii: unce make a pownde: and viij: drames 
+<lb />make one unce and .iij. scripuls one 
+<lb />drame: and xx: barly cornis ys a scripul</p>
+</ab>
+
+<pb facs="#f010" />
+<ab>
+<lb /><head><title>Divers receits.</title></head>
+<lb />				
+<lb /><head><title>De urinis</title></head>
+</ab>
+<ab>
+<lb /><head><title>De signis zodiaci &amp;amp;c</title></head>
+</ab>
+<ab>
+<lb /><head><title>Anatomy. All perhaps by Henry Dingley.</title></head>
+</ab>
+
+<pb facs="#f011" />
+<ab>
+<lb />
+<lb />				<figure>
+<lb />					<figDesc>
+<lb />						<desc>Black-and-white drawing of King Henry VI carrying a sword with a banderole captioning the figure.</desc>
+<lb />					</figDesc>
+<lb />				</figure>
+<lb />				<p>Henricus vi Rex anglie</p>
+<lb />			
+</ab>
+
+<pb facs="#f012" />
+<ab>
+<lb /><desc>Three lines of cancelled notes. Illegible.</desc>
+</ab>
+
+<pb facs="#f013" />
+<ab>
+<lb /><desc>Blank flyleaf</desc>
+</ab>
+
+<pb facs="#f014" />
+<ab>
+<lb /><head><title>for the ache of disease in the 
+<lb />raynes of the bakke</title></head>
+<lb /><p>Take a <measure>quarter of yard</measure> of redde scarlett &amp; stycche therto 
+<lb />the woll of a blakke shepe thatt growyth apon the 
+<lb />brest and then take pouder of [?]aunders &amp; strew over 
+<lb />the sayd woll &amp; also pouder of lycoras and after 
+<lb />that don to over spryngyll the same with oyle 
+<lb />of oylyff and that plastur shall restore nature. 
+<lb />And ease the pacient of his disease so it be layed 
+<lb />to his raynes &amp; <measure>every wyke</measure> the same plastre 
+<lb />to be renewed with same pouder &amp; oyle. And so 
+<lb />to use it till he be hoole &amp;c.</p>
+</ab>
+
+<pb facs="#f015" />
+<ab>
+<lb /><figure><figDesc>Ex libris stamp of Trinity College Cambridge Library</figDesc></figure>
+<lb /><p>Collegium S.S. et individuae Trinitatis in Academia Cantabrigiensi</p>
+</ab>
+
+<pb facs="#f016" />
+<ab>
+<lb /><head><handShift/><title>of all maner of Infyrmytes</title><handShift/></head>
+<lb /><p>Here begynneth a tretys of al 
+<lb />manere of infirmitees of mannys 
+<lb />body. bothe withinne as touchyng 
+<lb />to phisyke and withoute as touching 
+<lb />to surgerie from the croune of the 
+<lb />heed to the sool of the foot. And 
+<lb />the remedies therwith if god wol. 
+<lb />And first we wol at heer of the hed 
+<lb />how it shulde be norisshede &amp; kepte &amp;c.</p>
+<lb /><head><title>For to make heer to growe.</title></head>
+<lb /><p>Take withien leves and sethe hem in 
+<lb />oyle and hony and anoynte the heede 
+<lb />therwith. and it shal make the heer to 
+<lb />growe and waxe. <title>Another.</title> Take beer &amp; 
+<lb />drie hem in a furneys or in a panne and 
+<lb />make therof a pouder. and sethe it in hony 
+<lb />and anoynt the pacient therwith and it 
+<lb />shal make the heer to growe. <title>Another.</title> 
+<lb />forto make heer to growe after scalles. There 
+<lb />is an oynement that is cleped <term>unguentum</term>
+<lb /><persName><term>aristotilis</term></persName>. thus it must be made. Take 
+<lb />the sewet of a dere either fresshe shepys</p>
+</ab>
+
+<pb facs="#f017" />
+<ab>
+<lb /><p>talu and pich that is fletyng. oyle olyf and 
+<lb />gret salt. of iche of these <measure>iii. unces</measure> or <measure>half a 
+<lb />quartron</measure> of white waxe <measure>half an unce</measure>. than 
+<lb />first take the sewt. ortalu of a wether &amp; salt. 
+<lb />and stampe wel these to gider. than take the 
+<lb />piche &amp; the oyle &amp; the white waxe. and do it 
+<lb />over the fire in a panne &amp; <time>whan al is molten</time> 
+<lb />and skymed do in thy sewet &amp; thy salt &amp; stire it 
+<lb />with a selice. and <time>whan it is wel boyled</time> sette it 
+<lb />a doun and streyneit thorugh a canevas. and 
+<lb />than putte this oynement in a sered boxe. And 
+<lb />whan thow wolt anoynte the scalled heed therwit 
+<lb />lete shave it or thou anoynte it Take than the 
+<lb />pouder of brent bees and strawe it above on the 
+<lb />oynement and <time>whanne the heed scal be wasshe</time> 
+<lb />make lye of hay asshes that was mowe <date>before 
+<lb />midsomer</date>. and than wasshe it with the white 
+<lb />of eyren. &amp; hony. and with that lye twies awoke 
+<lb />and if it thus be governed. than shal the heede 
+<lb />faire hele &amp; make the heer wel to growe.</p>
+<lb /><head><title>To destroie the growyng of heer</title></head>
+<lb /><p>Take &amp; make lye of hoot asshes of strawe &amp; wasshe</p>
+</ab>
+
+<pb facs="#f018" />
+<ab>
+<lb /><p>it therwith ofte. <title>Another.</title> Take the juys of 
+<lb />Ivy leves and whan the heer is polled away 
+<lb />anoynte the place therwith. <title>A nother.</title> Take 
+<lb />the asshes of elme barkes and unslekid lyme. 
+<lb />&amp; orpyment &amp; welle water &amp; anoynte welle þe 
+<lb />place that thou wolt the heer be destroied &amp; it 
+<lb />shal vanysshe a way.</p>
+</ab>
+<ab>
+<lb /><head><title>For to make heer coloured as gold.</title></head>
+<lb /><p>Take the huskes of walnotes whan they ben 
+<lb />grene &amp; the rynde of the tre &amp; sethe hem wel &amp; 
+<lb />make lye of that water. or stampe hem wel 
+<lb />and do with the uskes &amp; ley ther on. and wasshe theheed therwith. <title>For to make rede heer</title> 
+<lb />Washe thynheed ofte with water that lu-
+<lb />pines hath be soden in. <title>A nother.</title> Take 
+<lb />sauge &amp; menge it with the asshes when thow 
+<lb />makyst thy lye. and make pouder of sauge &amp; 
+<lb />menge it with may boter or hennes grece &amp; 
+<lb />anoynte the therwith often.</p>
+</ab>
+<ab>
+<lb /><head><title>Forto make the heer blak</title>.</head>
+<lb /><p>Wasshe ofte thynheed with the juys of 
+<lb />sauge in the sonne and it wol be blake.</p>
+</ab>
+
+<pb facs="#f019" />
+<ab>
+<lb /><title>Another.</title><p>Tampre thou alkenet with 
+<lb />oyle &amp; anoynte ofte thyn heed therwith and 
+<lb />it wol waxe blak.</p><head><title>For lyse &amp; nytes 
+<lb />in the heed and for to destroie flees</title>.</head>
+<lb /><p>Take see water or bryne and wasshe therwith 
+<lb />thyn heed. &amp; it shal destroie hem. <title>Another.</title> 
+<lb />Make lye with wilde nepe. &amp; therwith wasshe 
+<lb />the heed ofte. &amp; it shal destroie bothe lyse &amp; ny-
+<lb />tes. <title>A nother.</title> Take quyk lyme &amp; orpyment 
+<lb />of <measure>eche iliche muche</measure> &amp; grynde hem unto pou-
+<lb />der and tempre this pouder with good vinegre 
+<lb />&amp; anoynte therwith the heed &amp; this wyl des-
+<lb />troie hem withoute fallyng of heres. <title>A noþer.</title>
+<lb />Stampe rewe and wrynge oute therof the 
+<lb />juys anoynte thy body for lyse &amp; nytes on thy 
+<lb />body. <title>A nother</title> Take quyk selver &amp; the 
+<lb />white of an eg &amp; spotel &amp; menge hem wel to-
+<lb />gidre than take a <measure>lyste</measure> of newe clothe &amp; anoynte 
+<lb />that o side of the list with this oynement wel 
+<lb />fro that o ende to that other. &amp; than bynde 
+<lb />that oynement with the list aboute thi myd-
+<lb />del. &amp; lete it be so there <measure>ix days</measure> &amp; <measure>ix nyghtes.</measure></p>
+ 
+</ab>
+
+<pb facs="#f020" />
+<ab>
+<lb /><title>Another for the flees.</title><p>Take the horne 
+<lb />of a bole &amp; brenne therof in the fyre so þat it 
+<lb />smoke and the flees wol fle oute of the house
+<lb /><title>Another.</title> Take ruchous? grece &amp; grese wel 
+<lb />a yerde therwith. and stike that yerde in þe 
+<lb />chambir flore there as the flees ben. and all 
+<lb />the flees that ben in the chamber wol lepe 
+<lb />upon that yerde.</p><head><title>For scalled hedes.</title></head><p>Take 
+<lb />boles pissynge. &amp; do therto verdegrece and 
+<lb />coperose &amp; sayme or bacon grece. &amp; menge 
+<lb />hem all togidir and anoynte the heed þer 
+<lb />with every morwe. and every evene. &amp; Wasshe 
+<lb />the heed with rennyng water &amp; he shal be 
+<lb />hool. <title>A nother.</title> Take and shave the 
+<lb />pilled hede. than take virgyn waxe &amp; picche 
+<lb />of eche iliche muche &amp; boyle hem togidre 
+<lb />and sprede a lynnen clothe upon a borde &amp; 
+<lb />do this plastir upon that clothe With a 
+<lb />selice thynne &amp; lay it hoot on the heed that 
+<lb />it hele the scalles &amp; do it not a way in <measure>ix 
+<lb />days</measure>. &amp; afterwarde anoynte the heed eche 
+<lb />day with hony &amp; it shal hele faire &amp; wol</p>
+</ab>
+
+<pb facs="#f021" />
+<ab>
+<lb /><p>sikerly. <title>A nother.</title> Take faire picche mede 
+<lb />waxe &amp; roson of iche liche muche &amp; melte hem 
+<lb />til they be wel medled. than poure hem in a boxe 
+<lb />but lete the boxe stonde in water for chynyng 
+<lb />til that it be colde. than lete wasshe first the 
+<lb />scalled heed in stronge pisse &amp; hoot &amp; schave it 
+<lb />of al clene. &amp; lette not for no bledyng. &amp; than 
+<lb />take a lynnen clothe &amp; ley it on the bledyng hed 
+<lb />than take faire herdes of flaxe or of hempe &amp; 
+<lb />tose hem and ley hem a brood on the cloute 
+<lb />that heth on the heed til that the cloute be heled 
+<lb />than take oute some of that in the boxe &amp; make 
+<lb />therof pouder in a brasyn morter &amp; strawe that pouder above on the heed til þat the herdes be 
+<lb />covered. &amp; than take a nother clene cloute &amp; ley it 
+<lb />above &amp; aboute. &amp; take a lyst or a bonde &amp; bynde 
+<lb />bothe cloutes togidir aboute the heed. &amp; htan the 
+<lb />pouder may not shede. &amp; so lette it be <time>vii. days 
+<lb />or viij.</time> and use this medicyne til al the for-
+<lb />ked herys be pulled up and at every tyme that 
+<lb />the cappe is removed wasshe the heed in war-
+<lb />me pisse &amp; after shave it clene and lete not for</p>
+</ab>
+
+<pb facs="#f022" />
+<ab>
+<lb /><p>no bledyng and make a newe cappe as thou didst 
+<lb />before and whan thou seest that it nedith not 
+<lb />to use moor this medicyne. than take the water that 
+<lb />rotherres feet be soden in. &amp; blowe of the fatte 
+<lb />in to a vessel &amp; poure it oute clene. &amp; do that in to 
+<lb />boxes &amp; anoynt wel the heed therewith til it 
+<lb />be hool this medicyne hath be ofte proved sothe.</p>
+<lb /><head><title>For a felon þat makith an hed to swelle.</title></head>
+<lb /><p>Take the greese of an hert. hony. barlymele hay-
+<lb />hone. and dockes &amp; pounde hem al togidir &amp; shave 
+<lb />the heed &amp; ley the plastir in an howne al hoot upon 
+<lb />the heed &amp; lete it lie to til it be hool</p><head><title>For bo-
+<lb />nes broken in the heed.</title></head><p>Take pigle. bugle. 
+<lb />sanygle herbe robert. anence. red cole. tansey. 
+<lb />hempe croppes of eche of these iliche muche. 
+<lb />&amp; take of mader as moche as of al the tother 
+<lb />herbes. and do therto ambrose. burnet. crispe. hocke. 
+<lb />of iche of these iliche muche. &amp; stampe hem wel 
+<lb />togidir &amp; make therof a plaster and if ther be 
+<lb />a boon broke &amp; thou darst serche it ȝit ȝeve him 
+<lb />this drynke &amp; take the reed cole tanseye. hempe 
+<lb />croppes. hors mynte. reed nettil croppe. brere croppe.</p>
+</ab>
+
+<pb facs="#f023" />
+<ab>
+<lb /><p>and as muche of mader as of all these other 
+<lb />herbes. &amp; sethe hem wel in white wyne and 
+<lb />ȝev that wyne to the pacient to drynke and 
+<lb />if it come oute at wounde. than it is a token 
+<lb />of dethe apert preved. And if it come not oute 
+<lb />but castith it oute than it is a token of lif. 
+<lb />than do sarche the wounde. &amp; shave esily and 
+<lb />slightly the broken bones so that thou <ref>tame</ref> not 
+<lb />the teþe of the brayne. And if he blede faste. 
+<lb />Wipe hym softely with softe lynene &amp; sithen 
+<lb />take softe lynene &amp; lappe it wel togidir &amp; ley it 
+<lb />over the wounde. than take whete floure and 
+<lb />bulte it. &amp; strawe that bulted bulted flour on the 
+<lb />cloute that lieth upon the wounde ful softe-
+<lb />ly. And sith lete a womman that fedith a 
+<lb />man childe. if it be a man that is wounded. 
+<lb />mylke hir pappes softely on the floure þat 
+<lb />is strowed on the cloute &amp; sithen ley another 
+<lb />clothe theron and strowe also on that flour 
+<lb />as thou didist on that other tofore &amp; of the 
+<lb />mylke til it be even with the flesshe &amp; hele 
+<lb />the heed &amp; lete it be still til on the morwe</p>
+</ab>
+
+<pb facs="#f024" />
+<ab>
+<lb /><p>than on the morowe unhele the heed softely 
+<lb />and if the se there a burbal as stondith 
+<lb />on the water whan it reyneth than it 
+<lb />wer a signe of dethe. and if thou se tofore 
+<lb />his tethe as it were a spynnynge webbe 
+<lb />or a reed &amp; that it take the reme of the brain 
+<lb />that is a signe of hasty dethe and it ther 
+<lb />be noon of these signes ȝeve hym iche day 
+<lb />to drynke twies at morowe colde at even 
+<lb />hoot of thys drynk afore sayde This 
+<lb />drynke makyth broken bones to come oute 
+<lb />&amp; clensith the remes of the brayn of blood 
+<lb />&amp; helith þe wounde. And if it be so broke þat 
+<lb />it behoveth to do there in <ref><term>maser</term></ref>, the maister 
+<lb />behoveth to s<supplied>er</supplied>che wel &amp; <ref>runge</ref> wel þe broken 
+<lb />of the heed as it is afore seid. &amp; sette 
+<lb />ther in a pece of <term>maser</term> &amp; anoynte it with 
+<lb />the oynement that is after wreton Loke thou make thus thys oynement Take pi-
+<lb />liol riall. pulyol monteyn banworte. ambrose 
+<lb />ribwort. bugle. celidoyne. cheverfoile reed netle 
+<lb />lekes ache weibrede. morel. tansey. beteyne of</p>
+</ab>
+
+<pb facs="#f025" />
+<ab>
+<lb /><p>eche of these iliche muche. And stampe hem 
+<lb />wel togidir with fresshe swyne grece and 
+<lb />put therto reclis a litel hony &amp; vyrgyn waxe 
+<lb />&amp; whan all these thynges ben stamped wel. 
+<lb />gader hem into a clene bason or panne &amp; do þerto 
+<lb />white wyne &amp; lete it stonde so al <time>a day &amp; al a 
+<lb />nyght</time>. and on that other day in the morowe 
+<lb />sette it on a fire &amp; sethe it wel &amp; ȝeve it good 
+<lb /><ref>walmes</ref> and whan it is wel sode take it fro 
+<lb />the fyre &amp; holde it in to a poke maad of strong 
+<lb />canevas &amp; so streyne it oute in to a vessel &amp; put 
+<lb />it in to a boxe &amp; as longe as the heed is soor a-
+<lb />noynte it therwith &amp; than it wol hele faire &amp; 
+<lb />wel.</p><head><title>For broken hedes of eny wepen 
+<lb />falle or hurte.</title></head><p>If the sculle or brayn panne 
+<lb />be broke or hurte so that the pacient may 
+<lb />not speke stampe vyolet &amp; ȝeve it hym to drinke 
+<lb />in wyne and if the right side of the heed be 
+<lb />hurte. stampe violet &amp;  bynde it to the sool of 
+<lb />the lifte foot and if it be the lifte side ley it 
+<lb />to the sool of the right foot. And than the 
+<lb />boon of the heed that is hurte wol arise up</p>
+</ab>
+
+<pb facs="#f026" />
+<ab>
+<lb /><p>in to his place and so than the pacient shall 
+<lb />speke.</p><head><title>For a stroke in the heed where tho-
+<lb />rugh the heed is swollen.</title></head><p>Take a sou-
+<lb />kyng whelpe &amp; clene it &amp; ley it al hoot to þe 
+<lb />heed of the pacient al anyght &amp; that wol take 
+<lb />oute the <ref>bolnyng</ref> &amp; swellynge &amp; make the wounde 
+<lb />clere to þe leche.</p>
+</ab>
+
+  </div>
+  </body>
+    </text>
+  </TEI>
