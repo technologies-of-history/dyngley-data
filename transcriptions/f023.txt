@@ -1,11 +1,11 @@
-<p>and as muche of mader as of all these other 
+and as muche of mader as of all these other 
 herbes. & sethe hem wel in white wyne and 
 ȝev that wyne to the pacient to drynke and 
 if it come oute at wounde. than it is a token 
 of dethe apert preved. And if it come not oute 
 but castith it oute than it is a token of lif. 
 than do sarche the wounde. & shave esily and 
-slightly the broken bones so that thou <ref>tame</ref> not 
+slightly the broken bones so that thou <ref><term>tame</term></ref> not 
 the teþe of the brayne. And if he blede faste. 
 Wipe hym softely with softe lynene & sithen 
 take softe lynene & lappe it wel togidir & ley it 
@@ -19,4 +19,4 @@ is strowed on the cloute & sithen ley another
 clothe theron and strowe also on that flour 
 as thou didist on that other tofore & of the 
 mylke til it be even with the flesshe & hele 
-the heed & lete it be still til on the morwe</p>
+the heed & lete it be still til on the morwe
