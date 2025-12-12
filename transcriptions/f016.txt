@@ -1,4 +1,4 @@
-<div><head><handShift/><title>of all maner of Infyrmytes</title><handShift/></head>
+<head><handShift/><title>of all maner of Infyrmytes</title><handShift/></head>
 <p>Here begynneth a tretys of al 
 manere of infirmitees of mannys 
 body. bothe withinne as touchyng 
@@ -7,8 +7,8 @@ to surgerie from the croune of the
 heed to the sool of the foot. And 
 the remedies therwith if god wol. 
 And first we wol at heer of the hed 
-how it shulde be norisshede & kepte &c.</p></div>
-<div><head><title>For to>make heer to growe>.</title></head>
+how it shulde be norisshede & kepte &c.</p>
+<head><title>For to>make heer to growe>.</title></head>
 <p>Take withien leves and sethe hem in 
 oyle and hony and anoynte the heede 
 therwith. and it shal make the heer to 
