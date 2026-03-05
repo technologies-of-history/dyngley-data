@@ -6,7 +6,7 @@ be wounded in the feet whan the mone is under-
 neth that signe unnethe or evere he shal be cone-
 red.
 
-<foreign xml:lang="la">Signum Aquarii dicitur quia Sancte Johannes
+<foreign xml:lang="la">Signum Aquarii dicitur quia Sanctus Johannes
 Baptista baptisatus fuit in flumine Jordani
 in mense Januarii quem habet Januarius. Qui
 nascitur in hoc signo negigens erit.
@@ -16,8 +16,9 @@ missus fuit in mare in ventre ceti tribus diebus
 piscis. Qui in hoc signo nascitur gratiam in
 omnem partem habebit.
 Signum Arietis dicitur quia Abraham fecit
-holocaustum de Ariete per filis suo ysaac in mense
-marcii cui Aries attributur. In hoc signo qui
+holocaustum de Ariete per filio suo ysaac in mense
+marcii cui Aries attribuitur. In hoc signo qui
 natus fuerit trepidus erit & gloriam habebit.
-Signum Tauri dicitur quia Jacob luctatur
+Signum Tauri dicitur quia Jacob luctatus</foreign>
+
 
