@@ -1,0 +1,26 @@
+layout: post
+author: Vivian Velazquez
+title: Medical Practice in Manuscript 
+<!--more-->
+digestines of coler and compouned.
+The seconde p’i is of medicynes symple
+digestines of flemme and compound.
+The iii. cap. is of medicynes symple
+digestines of malencohe and compound
+The iiii. cap. is of medicynes symple
+laxatives or emaciatives of coler and 
+compouned for the soonh_
+The v. cap. is of medicynes symple
+laxatives of flemme. and compound for the soon
+The vi. cap. is of medicynes symple
+laxatives of melencohen and compound for the sool
+The vii. cap. is of dolns of symple me=
+dicynes laxatives or emaciatives of coler.
+flemme . and melencohen,
+The viii. Chap. is of johs of compound
+Medicynes laxatives or bondynge of coler
+flemme and malencohe _
+The ix. cap. is of the pouryons of medi=
+cynes laxatives or voidynge of coler.
+flemme and malencohen
+The x. iv of medicynes digestines.
