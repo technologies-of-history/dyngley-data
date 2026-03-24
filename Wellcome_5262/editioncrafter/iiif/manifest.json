@@ -1,0 +1,5599 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0001.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0001.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0002.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0002.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0003.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0003.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"1r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0004.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0004.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"1v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0005.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0005.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"2r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0006.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0006.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"2v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0007.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0007.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"3r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0008.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0008.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"3v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0009.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0009.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f008"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"4r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0010.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0010.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f009"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"4v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0011.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0011.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f010"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"5r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0012.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0012.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f011"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"5v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0013.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0013.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f012"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"6r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f013",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f013/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f013/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0014.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0014.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f013"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"6v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f014",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f014/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0015.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0015.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f014"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"7r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f015",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f015/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0016.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0016.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f015"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"7v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f016",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f016/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f016/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0017.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0017.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f016"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"8r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f017",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f017/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f017/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0018.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0018.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f017"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"8v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f018",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f018/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f018/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0019.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0019.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f018"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"9r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f019",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f019/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f019/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0020.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0020.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f019"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"9v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f020",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f020/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f020/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0021.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0021.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f020"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"10r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f021",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f021/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f021/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0022.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0022.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f021"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"10v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f022",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f022/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f022/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0023.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0023.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f022"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"11r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f023",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f023/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f023/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0024.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0024.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f023"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"11v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f024",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f024/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f024/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0025.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0025.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f024"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"12r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f025",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f025/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f025/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0026.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0026.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f025"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"12v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f026",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f026/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f026/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0027.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0027.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f026"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"13r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f027",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f027/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f027/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0028.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0028.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f027"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"13v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f028",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f028/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f028/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0029.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0029.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f028"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"14r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f029",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f029/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f029/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0030.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0030.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f029"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"14v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f030",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f030/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f030/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0031.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0031.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f030"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"15r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f031",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f031/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f031/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0032.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0032.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f031"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"15v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f032",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f032/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f032/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0033.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0033.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f032"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"16r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f033",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f033/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f033/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0034.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0034.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f033"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"16v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f034",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f034/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f034/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0035.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0035.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f034"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"17r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f035",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f035/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f035/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0036.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0036.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f035"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"17v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f036",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f036/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f036/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0037.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0037.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f036"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"18r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f037",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f037/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f037/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0038.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0038.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f037"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"18v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f038",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f038/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f038/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0039.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0039.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f038"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"19r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f039",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f039/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f039/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0040.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0040.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f039"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"19v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f040",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f040/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f040/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0041.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0041.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f040"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"20r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f041",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f041/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f041/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0042.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0042.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f041"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"20v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f042",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f042/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f042/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0043.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0043.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f042"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"21r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f043",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f043/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f043/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0044.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0044.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f043"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"21v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f044",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f044/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f044/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0045.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0045.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f044"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"22r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f045",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f045/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f045/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0046.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0046.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f045"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"22v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f046",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f046/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f046/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0047.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0047.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f046"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"23r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f047",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f047/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f047/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0048.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0048.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f047"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"23v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f048",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f048/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f048/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0049.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0049.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f048"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"24r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f049",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f049/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f049/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0050.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0050.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f049"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"24v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f050",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f050/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f050/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0051.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0051.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f050"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"25r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f051",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f051/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f051/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0052.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0052.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f051"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"25v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f052",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f052/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f052/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0053.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0053.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f052"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"26r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f053",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f053/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f053/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0054.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0054.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f053"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"26v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f054",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f054/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f054/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0055.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0055.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f054"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"27r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f055",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f055/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f055/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0056.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0056.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f055"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"27v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f056",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f056/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f056/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0057.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0057.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f056"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"28r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f057",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f057/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f057/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0058.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0058.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f057"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"28v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f058",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f058/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f058/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0059.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0059.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f058"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"29r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f059",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f059/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f059/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0060.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0060.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f059"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"29v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f060",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f060/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f060/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0061.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0061.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f060"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"30r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f061",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f061/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f061/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0062.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0062.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f061"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"30v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f062",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f062/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f062/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0063.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0063.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f062"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"31r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f063",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f063/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f063/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0064.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0064.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f063"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"31v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f064",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f064/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f064/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0065.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0065.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f064"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"32r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f065",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f065/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f065/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0066.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0066.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f065"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"32v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f066",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f066/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f066/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0067.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0067.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f066"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"33r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f067",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f067/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f067/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0068.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0068.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f067"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"33v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f068",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f068/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f068/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0069.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0069.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f068"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"34r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f069",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f069/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f069/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0070.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0070.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f069"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"34v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f070",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f070/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f070/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0071.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0071.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f070"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"35r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f071",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f071/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f071/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0072.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0072.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f071"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"35v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f072",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f072/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f072/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0073.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0073.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f072"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"36r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f073",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f073/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f073/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0074.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0074.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f073"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"36v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f074",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f074/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f074/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0075.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0075.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f074"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"37r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f075",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f075/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f075/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0076.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0076.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f075"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"37v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f076",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f076/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f076/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0077.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0077.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f076"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"38r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f077",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f077/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f077/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0078.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0078.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f077"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"38v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f078",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f078/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f078/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0079.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0079.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f078"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"39r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f079",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f079/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f079/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0080.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0080.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f079"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"39v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f080",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f080/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f080/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0081.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0081.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f080"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"40r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f081",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f081/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f081/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0082.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0082.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f081"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"40v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f082",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f082/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f082/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0083.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0083.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f082"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"41r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f083",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f083/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f083/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0084.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0084.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f083"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"41v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f084",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f084/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f084/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0085.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0085.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f084"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"42r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f085",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f085/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f085/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0086.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0086.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f085"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"42v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f086",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f086/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f086/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0087.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0087.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f086"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"43r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f087",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f087/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f087/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0088.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0088.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f087"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"43v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f088",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f088/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f088/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0089.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0089.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f088"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"44r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f089",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f089/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f089/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0090.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0090.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f089"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"44v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f090",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f090/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f090/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0091.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0091.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f090"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"45r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f091",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f091/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f091/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0092.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0092.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f091"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"45v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f092",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f092/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f092/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0093.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0093.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f092"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"46r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f093",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f093/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f093/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0094.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0094.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f093"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"46v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f094",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f094/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f094/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0095.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0095.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f094"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"47r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f095",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f095/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f095/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0096.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0096.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f095"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"47v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f096",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f096/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f096/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0097.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0097.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f096"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"48r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f097",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f097/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f097/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0098.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0098.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f097"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"48v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f098",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f098/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f098/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0099.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0099.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f098"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"49r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f099",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f099/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f099/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0100.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0100.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f099"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"49v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f100",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f100/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f100/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0101.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0101.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f100"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"50r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f101",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f101/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f101/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0102.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0102.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f101"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"50v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f102",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f102/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f102/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0103.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0103.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f102"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"51r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f103",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f103/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f103/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0104.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0104.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f103"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"51v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f104",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f104/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f104/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0105.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0105.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f104"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"52r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f105",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f105/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f105/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0106.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0106.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f105"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"52v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f106",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f106/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f106/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0107.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0107.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f106"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"53r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f107",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f107/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f107/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0108.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0108.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f107"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"53v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f108",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f108/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f108/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0109.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0109.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f108"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"54r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f109",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f109/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f109/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0110.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0110.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f109"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"54v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f110",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f110/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f110/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0111.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0111.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f110"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"55r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f111",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f111/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f111/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0112.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0112.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f111"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"55v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f112",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f112/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f112/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0113.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0113.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f112"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"56r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f113",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f113/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f113/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0114.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0114.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f113"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"56v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f114",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f114/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f114/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0115.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0115.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f114"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"57r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f115",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f115/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f115/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0116.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0116.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f115"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"57v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f116",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f116/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f116/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0117.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0117.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f116"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"58r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f117",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f117/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f117/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0118.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0118.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f117"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"58v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f118",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f118/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f118/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0119.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0119.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f118"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"59r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f119",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f119/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f119/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0120.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0120.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f119"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"59v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f120",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f120/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f120/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0121.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0121.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f120"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"60r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f121",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f121/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f121/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0122.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0122.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f121"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"60v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f122",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f122/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f122/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0123.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0123.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f122"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"61r"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f123",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f123/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f123/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0124.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0124.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f123"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"61v"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f124",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f124/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f124/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0125.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0125.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f124"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f125",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f125/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f125/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0126.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0126.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f125"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f126",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f126/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f126/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0127.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0127.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f126"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f127",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f127/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f127/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0128.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6666,
+								"width": 4992,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0128.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f127"
+						}
+					]
+				}
+			],
+			"height": 6666,
+			"width": 4992,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f128",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f128/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f128/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0129.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0129.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f128"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f129",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f129/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f129/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0130.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6276,
+								"width": 4754,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0130.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f129"
+						}
+					]
+				}
+			],
+			"height": 6276,
+			"width": 4754,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f130",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f130/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f130/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0131.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4992,
+								"width": 6666,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0131.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f130"
+						}
+					]
+				}
+			],
+			"height": 4992,
+			"width": 6666,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f131",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f131/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f131/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0132.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4992,
+								"width": 6666,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0132.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f131"
+						}
+					]
+				}
+			],
+			"height": 4992,
+			"width": 6666,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f132",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f132/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f132/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0133.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4992,
+								"width": 6666,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0133.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f132"
+						}
+					]
+				}
+			],
+			"height": 4992,
+			"width": 6666,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f133",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f133/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f133/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0134.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4992,
+								"width": 6666,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0134.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f133"
+						}
+					]
+				}
+			],
+			"height": 4992,
+			"width": 6666,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f134",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f134/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f134/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0135.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4992,
+								"width": 6666,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0135.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f134"
+						}
+					]
+				}
+			],
+			"height": 4992,
+			"width": 6666,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f135",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f135/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f135/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.wellcomecollection.org/image/b19553833_0136.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6666,
+								"width": 4992,
+								"service": [
+									{
+										"id": "https://iiif.wellcomecollection.org/image/b19553833_0136.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://technologies-of-history.github.io/dyngley-data/Wellcome_5262/editioncrafter/iiif/canvas/f135"
+						}
+					]
+				}
+			],
+			"height": 6666,
+			"width": 4992,
+			"label": {
+				"none": [
+					"-"
+				]
+			},
+			"annotations": []
+		}
+	],
+	"label": {
+		"en": [
+			"Wellcome_5262"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
